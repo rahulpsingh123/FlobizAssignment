@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flobiz Assignment</string>
+    <string name="no_results_text">No results found</string>
+    <string name="no_internet_connection">No internet connection!</string>
+    <string name="text_retry">RETRY</string>
+
+</resources>

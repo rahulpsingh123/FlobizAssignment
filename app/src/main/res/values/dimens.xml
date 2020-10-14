@@ -1,0 +1,12 @@
+<resources>
+    <!--screen transition -->
+
+    <!--Continue phone -->
+    <dimen name="terms_text_margins">32dp</dimen>
+
+    <dimen name="refresher_offset">0dp</dimen>
+    <dimen name="refresher_offset_end">60dp</dimen>
+    <dimen name="feed_refresher_offset_end">40dp</dimen>
+
+
+</resources>
